@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\org",
+    "\\src\\main\\java\\org\\springframework",
+    "\\src\\main\\java\\org\\springframework\\samples",
+    "\\src\\main\\java\\org\\springframework\\samples\\petclinic",
+    "\\src\\main\\java\\org\\springframework\\samples\\petclinic\\product",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\org",
+    "\\src\\test\\java\\org\\springframework",
+    "\\src\\test\\java\\org\\springframework\\samples",
+    "\\src\\test\\java\\org\\springframework\\samples\\petclinic",
+    "\\src\\test\\java\\org\\springframework\\samples\\petclinic\\product"
+  ],
+  "SelectedNode": "\\src\\main\\java\\org\\springframework\\samples\\petclinic\\product\\Product.java",
+  "PreviewInSolutionExplorer": false
+}
